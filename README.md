@@ -13,8 +13,8 @@ Design a dog breed wish list
 - The frontend needs to be written in a modern JS framework (no jQuery or plain JS)
 - The backend needs to be written in a modern PHP framework and use a MySQL database
 - The frontend needs to be able to communicate with the backend through a RESTful API
-- The web page needs to be compatible with all major browsers and desktop/mobile/tablet screen sizes.
-- The web page should be dynamic and update in real time without reloading the page
+- The frontend needs to be compatible with all major browsers and desktop/mobile/tablet screen sizes.
+- The frontend should be dynamic and update in real time without reloading the page
 - All assets need to be optimized for size and speed
 - The autocomplete js component needs to be built from scratch and not using an existing or 3rd party library
 - The component (frontend and backend) needs to be a generic autocomplete such that the dataset is configurable and can be used for more than just dog breeds
