@@ -16,6 +16,8 @@ Design a dog breed wish list
 - The web page needs to be compatible with all major browsers and desktop/mobile/tablet screen sizes.
 - The web page should be dynamic and update in real time without reloading the page
 - All assets need to be optimized for size and speed
+- The autocomplete js component needs to be built from scratch and not using an existing or 3rd party library
+- The component (frontend and backend) needs to be a generic autocomplete such that the dataset is configurable and can be used for more than just dog breeds
 
 ## Evaluation Criteria
 - You care about design and the user experience.
