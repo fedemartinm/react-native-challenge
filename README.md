@@ -7,6 +7,7 @@ Design a dog breed wish list
 - If a dog breed which the user entered does not exist yet in the database, it will need to be created in the database.
 - When the user selects or enters a dog breed, it will need to be added to the wish list of dog breeds of the user.
 - The wish list of the user needs to be shown on the same page and updated in real time.
+- The user needs to be able to delete a dog breed from their wish list.
 
 ## Technical Requirements
 - The frontend needs to be written in a modern JS framework (no jQuery or plain JS)
