@@ -27,6 +27,7 @@ Design a dog breed wish list
 - You pay attention to details.
 - You are able to consider edge cases.
 - You know how to keep the UI responsive.
+- You care about performance and scalability.
 
 ## Submission
 
