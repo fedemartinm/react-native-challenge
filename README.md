@@ -1,6 +1,6 @@
 # Full Stack Coding Challenge
 
-Design a dog breed wish list
+Develop a dog breed wish list
 
 ## Functional Requirements
 - Create an autocomplete text field that suggests dog breeds from a database as you type (you can find the initial list of dog breeds in `dog-breeds.csv`).
@@ -26,7 +26,6 @@ Design a dog breed wish list
 - You develop in a scalable manner.
 - You pay attention to details.
 - You are able to consider edge cases.
-- You know how to keep the UI responsive.
 - You care about performance and scalability.
 
 ## Submission
