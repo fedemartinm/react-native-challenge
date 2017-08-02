@@ -10,7 +10,7 @@ Design a dog breed wish list
 
 ## Technical Requirements
 - The frontend needs to be written in a modern JS framework (no jQuery or plain JS)
-- The backend needs to be written in the Laravel framework and use a MySQL database
+- The backend needs to be written in a modern PHP framework and use a MySQL database
 - The frontend needs to be able to communicate with the backend through a RESTful API
 - The web page needs to be compatible with all major browsers and desktop/mobile/tablet screen sizes.
 - The web page should be dynamic and update in real time without reloading the page
