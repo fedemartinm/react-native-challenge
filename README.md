@@ -1,2 +1,32 @@
-# web-challenge
-Web Challenge
+# Full Stack Coding Challenge
+
+Design a dog breed wish list
+
+## Functional Requirements
+- Create an autocomplete text field that suggests dog breeds from a database as you type (you can find the initial list of dog breeds in `dog-breeds.txt`).
+- If a dog breed which the user entered does not exist yet in the database, it will need to be created in the database.
+- When the user selects or enters a dog breed, it will need to be added to the wish list of dog breeds of the user.
+- The wish list of the user needs to be shown on the same page and updated in real time.
+
+## Technical Requirements
+- The frontend needs to be written in a modern JS framework (no jQuery or plain JS)
+- The backend needs to be written in the Laravel framework and use a MySQL database
+- The frontend needs to be able to communicate with the backend through a RESTful API
+- The web page needs to be compatible with all major browsers and desktop/mobile/tablet screen sizes.
+- The web page should be dynamic and update in real time without reloading the page
+- All assets need to be optimized for size and speed
+
+## Evaluation Criteria
+- You care about design and the user experience.
+- You create elegant, clean and maintainable code.
+- You develop in a way that has clearly defined areas of responsibility.
+- You develop in a scalable manner.
+- You pay attention to details.
+- You are able to consider edge cases.
+- You know how to keep the UI responsive.
+
+## Submission
+
+- Push the code to an online repository and send us the link.
+- The web page + backend needs to live online so we can test it (we recommend to use Heroku)
+
