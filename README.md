@@ -23,7 +23,6 @@ Develop a dog breed wish list
 - You care about design and the user experience.
 - You create elegant, clean and maintainable code.
 - You develop in a way that has clearly defined areas of responsibility.
-- You develop in a scalable manner.
 - You pay attention to details.
 - You are able to consider edge cases.
 - You care about performance and scalability.
