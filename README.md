@@ -4,7 +4,7 @@ Develop a dog breed wish list
 
 ## Functional Requirements
 - Create an autocomplete text field that suggests dog breeds as you type (you can find the initial list of dog breeds in `dog-breeds.csv`).
-- If a dog breed which the user entered does not exist yet, it will need to be added to the list so other users can find it too.
+- If a dog breed which the user entered does not exist yet, it will need to be added to the list.
 - When the user selects or enters a dog breed, it will need to be added to the wish list of dog breeds of the user.
 - The wish list of the user needs to be shown on the same page and updated in real time.
 - The user needs to be able to delete a dog breed from their wish list.
