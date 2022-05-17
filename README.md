@@ -27,3 +27,6 @@ Develop a dog breed wish list
 
 ## Submission
 - Push the code to an online repository and send us the link.
+
+## Example App
+![Demo](./app-demo.gif)
