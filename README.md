@@ -1,4 +1,4 @@
-# Full Stack Coding Challenge
+# React Native Coding Challenge
 
 Develop a dog breed wish list
 
@@ -11,11 +11,10 @@ Develop a dog breed wish list
 - Don't worry about authentication or storing user data, wish lists should clear out on every page load
 
 ## Technical Requirements
-- The frontend needs to be written in a modern JS framework (preferably React)
-- The frontend needs to be compatible with desktop and mobile screen sizes.
-- The frontend should be dynamic and update in real time without reloading the page
+- The application needs to be written using react-native.
+- The frontend needs to be compatible with multiple mobile screen sizes.
 - The autocomplete js component needs to be built from scratch and not using an existing or 3rd party library
-- The component (frontend and backend) needs to be a generic autocomplete such that the dataset is configurable and can be used for more than just dog breeds
+- The component needs to be a generic autocomplete such that the dataset is configurable and can be used for more than just dog breeds
 - The component should make careful and optimal use of resources.
 
 ## Evaluation Criteria
@@ -28,5 +27,3 @@ Develop a dog breed wish list
 
 ## Submission
 - Push the code to an online repository and send us the link.
-- It needs to live somewhere online so we can test it (we recommend to use Heroku)
-
