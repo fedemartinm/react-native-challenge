@@ -12,7 +12,7 @@ Develop a dog breed wish list
 
 ## Technical Requirements
 - The application needs to be written using react-native.
-- The frontend needs to be compatible with multiple mobile screen sizes.
+- The application needs to be compatible with multiple mobile screen sizes.
 - The autocomplete js component needs to be built from scratch and not using an existing or 3rd party library
 - The component needs to be a generic autocomplete such that the dataset is configurable and can be used for more than just dog breeds
 - The component should make careful and optimal use of resources.
